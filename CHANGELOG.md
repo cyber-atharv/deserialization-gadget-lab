@@ -11,3 +11,6 @@ All notable changes to deserialization-gadget-lab will be documented in this fil
 ## [0.1.2] - 2025-09-01
 - security: add safe deserialization mitigations and defensive wrappers
 
+## [0.1.3] - 2025-09-02
+- docs: write step-by-step educational walkthrough in README
+
